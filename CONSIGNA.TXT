@@ -1,0 +1,7 @@
+Tarea:
+
+Agregar a la escena una UI simple con un elemento Text que mostrará el puntaje. Al inicio de la escena debe verse un cero. 
+
+Agregar al script InteractionArea la funcionalidad de  obtener del objeto con el que se entra en contacto el componente "PickupScript" y acumular en una variable los puntos de valor que tenga el objeto. Ante cada contacto actualizar el texto de la UI. Si es alimento, destruirlo.
+
+Entrega: un link al repo con el proyecto hecho en clase
